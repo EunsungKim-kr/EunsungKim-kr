@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+**About Me**
+- :running: I’m currently working at **TmaxOffice**.
+- :star2: **Objective**: Solving problems in diverse domains using **Deep Learning (DL)** / **Machine Learning (ML)**.
+- :computer: **Fields**: Deep learning-based computer vision (classification, segmentation, detection), Anomaly/Outlier Detection, Incremental Learning, Time-series analysis, Asset allocation using DL/ML.
+
+
 <!--
 **EunsungKim-kr/EunsungKim-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
