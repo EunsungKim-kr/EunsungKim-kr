@@ -2,7 +2,7 @@
 
 **About Me**
 
-<!--- :running: I’m currently working at **?**-->
+:running: I’m currently working at **Samsung Research**.
 - :star2: **Objective**: Solving problems in diverse domains using **Deep Learning (DL)** / **Machine Learning (ML)**.
 - :computer: **Fields**: Deep learning-based computer vision (classification, segmentation, detection), Anomaly/Outlier Detection, Incremental Learning, Time-series analysis, Asset allocation using DL/ML.
 
